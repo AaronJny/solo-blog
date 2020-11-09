@@ -10,6 +10,7 @@ AaronJny
 
 ### 最新
 
+* [xyolo？几行Python代码轻松完成yolo3目标检测](https://www.aaronjny.com/articles/2020/11/08/1604823112022.html)
 * [有趣的深度学习——使用TensorFlow 2.0实现图片神经风格迁移](https://www.aaronjny.com/articles/2020/03/15/1584256301112.html)
 * [有趣的深度学习——使用 BERT 实现一个古体诗生成器](https://www.aaronjny.com/articles/2020/03/11/1583923113887.html)
 * [在kindle上阅读网络小说的正确方法——Kindle网文助手](https://www.aaronjny.com/articles/2020/03/11/1583918482378.html)
@@ -29,7 +30,6 @@ AaronJny
 * [leetcode题解第18题 4Sum（四数之和）](https://www.aaronjny.com/articles/2019/11/06/1573017601065.html)
 * [leetcode第17题 Letter Combinations of a Phone Number（电话号码的字母组合）](https://www.aaronjny.com/articles/2019/11/06/1573017554442.html)
 * [leetcode第16题 3Sum Closest（最接近的三数之和）](https://www.aaronjny.com/articles/2019/11/06/1573017483100.html)
-* [leetcode第15题 3Sum(三数之和)](https://www.aaronjny.com/articles/2019/11/06/1573017427765.html)
 
 
 
